@@ -6,7 +6,7 @@ age = 43;
 
 
 var i = 1;
-while (i < 10) {
+while (i < 12) {
     alert(i);
-    i = i + 1;
+    i = i + 4;
 }
